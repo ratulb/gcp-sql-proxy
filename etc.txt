@@ -1,0 +1,1 @@
+DB_NAME="jdbc:mysql://localhost:3306/testdb" DB_USER=gcp-sql-proxy DB_PASS=password
